@@ -1,0 +1,1 @@
+# high-available-private-AKS-architecture
